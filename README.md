@@ -10,7 +10,7 @@ Dentro de este notebook se encuentran todas las instrucciones necesarias para su
 - El notebook estará adjunto en el presente repositorio, y en la carpeta Entrega Final dentro de Microsoft Teams
 - Dentro del notebook están las diferentes instrucciones necesarias para la ejecución del notebook
 - De querer ejecutar el notebook se recomienda hacer uso de google colab, ya que este fue el ambiente en que se desarrollaron todas las pruebas.
-- El Dataset será montado en la carpeta Entrega Final dentro de Microsoft Teams.
+- El Dataset será montado en la carpeta Entrega Final dentro de Microsoft Teams. Ademas se puede encontrar en el siguiente link: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 - Se recomienda montar el dataset en drive para que sea leído desde allí con la lógica presente en el notebook.
 - Es importante cambiar los paths a las fuentes de datos o guardado de características según corresponda. Al leer el notebook se hará claro dónde es necesario este proceso.
 
